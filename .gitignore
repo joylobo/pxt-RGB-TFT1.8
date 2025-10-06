@@ -1,0 +1,5 @@
+.pxt
+built
+node_modules
+package-lock.json
+pxt_modules
